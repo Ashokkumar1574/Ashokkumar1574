@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Ashok
-- 👀 I’m interested in full stack Dev
-- 🌱 I’m currently learning Scripting lang
-- 💞️ I’m not Easy to understand
-- Keep life with code
+<h2>Hi.! Ashokkumar.S</h2>
+<h3>knowledge on Full Stack Development</h3>
+<h4></h4>
 
 <!---
 Ashokkumar1574/Ashokkumar1574 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
