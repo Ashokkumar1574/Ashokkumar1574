@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 📫 How to reach me **ronalashok2004@gmail.com**
+- Area of Intrest Web and App Development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
