@@ -1,10 +1,8 @@
-![MasterHead](https://www.audienceplanet.com/root/template/1//images/web-development.gif)
+![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)
 <h1 align="center">Hi 👋 , I'm Ashokkumar</h1>
 <h2 align="center" >Frontend Developer</h2> <br>
 <p align="center">
-<img align="center" alt="Coding" width="450" src="http://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif"><br>
-
-<p align="left"> <img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.gif" alt="Ashokkumar1574" /> </p>
+<img align="center" alt="Coding" width="450" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"><br>
 
 - 🔭 I’m currently working on *Java Script*
 
